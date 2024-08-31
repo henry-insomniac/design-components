@@ -45,3 +45,5 @@ coverage/
 # 其他常见忽略项
 *.bak
 *.backup
+
+*storybook.log
